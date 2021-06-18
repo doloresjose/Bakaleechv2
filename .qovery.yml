@@ -1,0 +1,11 @@
+---
+application:
+  name: "bakaleechv2"
+  project: "libd"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-bakaleechv2"
+  routes:
+  - application_name: "bakaleechv2"
+    paths:
+    - "/*"
